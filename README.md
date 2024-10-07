@@ -1,5 +1,5 @@
 # Patient Transport Between Hospitals  
-A database project for storing information necessary to organize patient transport between hospitals, created as part of the course: Database Design 
+A database project for storing information necessary to organize patient transport between hospitals, created as part of the Database Design course
 -
 Project completed in collaboration with [A. Kłobus](https://github.com/AgnieszkaKlobus12), [J. Małuszyńska](https://github.com/justyna-maluszynska), and [M. Galińska](https://github.com/LeviSforza).  
 
