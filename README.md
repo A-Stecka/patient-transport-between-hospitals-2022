@@ -1,5 +1,5 @@
 # Patient Transport Between Hospitals  
-A database project for storing information necessary to organize patient transport between hospitals, created as part of the Database Design course
+A database project for storing information necessary to organize patient transport between hospitals, created as part of the Database Design course during my engineering degree
 -
 The main branch contains the project documentation. The script for generating test data for a relational database is located in the generate-SQL-database branch. The script for generating test data for a non-relational database is located in the generate-noSQL-database branch.
 -
