@@ -1,6 +1,6 @@
-# Transport pacjentów między szpitalami
-Projekt bazy danych przechowującej informacje potrzebne do ogranizacji transportu pacjentów między szpitalami wykonany w ramach przedmiotu Projektowanie baz danych
+# Patient Transport Between Hospitals  
+A database project for storing information necessary to organize patient transport between hospitals, created as part of the course: Database Design
 -
-Skrypt generujący dane testowe do relacyjnej bazy danych MySql.
+Script for generating test data for a relational MySQL database.  
 
-Projekt nie obejmuje kwestii bezpieczeństwa logowania i ochrony danych użytkowników.
+This project does not cover login security and user data protection.
